@@ -1,0 +1,293 @@
+Mathematics (MATH)
+Courses
+MATH 41   BEGINNING ALGEBRA   4 Units
+
+A course for those who need to strengthen their basic algebra skills. Topics include properties of the real numbers, linear and quadratic equations, linear inequalities, exponents, polynomials, rational and radical expressions, and systems of linear equations. The course credits count towards the semester credit load and GPA, but are not included in the 120 credit graduation requirement.
+PREREQ: APPROPRIATE SCORE ON THE UW MATH PLACEMENT TEST
+
+MATH 49   WORKSHOP   Repeatable   1 Units
+
+Variable credit course offering with a defined topic. Repeatable with a change of topic.
+
+MATH 93   SUPPORT FOR QUANTITATIVE REASONING   2 Units
+
+This course is designed to enrich the MATH 139 Quantitative Reasoning course. It is dedicated to support students by identifying and addressing skills that require review as well as create a structure that will support student success and improve math study skills. In addition to the pursuit of algebraic skills essential for success in MATH 139 and subsequent college-level mathematics courses, students will engage in activities for understanding and reducing test anxiety and will create strategies to improve motivation, mindfulness, and mindset.
+PREREQ: PLACEMENT INTO MATH 93
+
+MATH 104   THE LOGIC OF CHESS   1 Units
+
+A study of logic particularly as it is used in the game of chess and, most particularly, in chess strategy and the end game of chess. The rules are taught to those who are not already acquainted with the game.
+
+MATH 124   SUPPORT FOR COLLEGE ALGEBRA   1 Units
+
+This course is designed to enrich the MATH 142 College Algebra course. It is dedicated to support students by identifying and addressing skills that require review as well as create a structure that will support student success and improve math study skills. In addition to the pursuit of algebraic skills essential for success in MATH 142 and subsequent college-level mathematics courses, students will engage in activities to improve motivation, mindfulness, and mindset.
+PREREQ: PLACEMENT INTO MATH 124
+
+MATH 139   QUANTITATIVE REASONING   3 Units
+
+A quantitative reasoning course which includes topics from college algebra ( such as functions, linear, exponential and logarithmic models), statistics, and probability. Emphasizes modeling, problem-solving and applications. Designed for students whose programs do not require further coursework in pre-calculus or calculus. Appropriate for students majoring and minoring in areas such as the arts, humanities, social sciences, business, and education.
+PREREQ:GRADE OF C OR BETTER IN MATH 41 OR CONCURRENT ENROLLMENT IN MATH 93 OR PLACEMENT INTO MATH 139
+CROSS-LISTED: MATH 139/MATH 139W
+
+MATH 140   MATHEMATICAL IDEAS   3 Units
+
+Designed to give students a broad understanding and appreciation of mathematics. Includes topics not usually covered in a traditional algebra course. Topics encompass some algebra, problem solving, counting principles, probability, statistics, and consumer mathematics. This course is designed to meet the University Proficiency Requirement for students who do not wish to take any course having MATH 139 or MATH 142 as a prerequisite.
+PREREQ: GRADE OF C OR BETTER IN MATH 41 OR CONCURRENT ENROLLMENT IN MATH 93 OR PLACEMENT INTO MATH 140
+CROSS-LISTED: MATH 140, MATH 140W
+
+MATH 141   FUNDAMENTALS OF COLLEGE ALGEBRA   4 Units
+
+A functional approach to algebra with emphasis on applications to different disciplines. Topics include linear, exponential, logarithmic, quadratic, polynomial and rational equations and functions, systems of linear equations, linear inequalities, radicals and rational exponents, complex numbers, variation. Properties of exponents, factoring, and solving linear equations are reviewed.
+PREREQ: MATH 41 WITH A GRADE OF C OR BETTER OR WAIVER
+
+MATH 142   COLLEGE ALGEBRA   4 Units
+
+Study of polynomial, radical, rational, piecewise, exponential, and logarithmic functions, including basic graphs, transformations, inverses, and combining functions; solving equations and inequalities both algebraically and graphically is explored. Applications to other disciplines are used to enhance conceptual understanding.
+PREREQ: GRADE OF C OR BETTER IN (MATH 41 OR MATH 139) OR CONCURRENT ENROLLMENT IN MATH 124 OR PLACEMENT INTO MATH 142 UNREQ: MATH 152
+
+MATH 143   FINITE MATHEMATICS FOR BUSINESS AND SOCIAL SCIENCES   3 Units
+
+Mathematical preparation for the understanding of quantitative methods in management and social sciences. Topics include sets, relations, linear functions, interest, annuities, matrices, solution of linear systems by graphical, algebraic, Gauss-Jordan, and inverse methods, linear programming by graphical and simplex methods, counting and probability. College of Business and Economics majors must take this course on a conventional grade basis.
+PREREQ: GRADE OF C OR BETTER IN MATH 139 OR MATH 141 OR MATH 142
+
+MATH 147   MATHEMATICS IN EARLY CHILDHOOD LEARNING   4 Units
+
+A study of topics in early childhood mathematics, including sets, numbers, operations, measurement, data, and geometry. The focus is on increasing conceptual understanding of mathematics, highlighting connections, and developing the ability to communicate mathematical knowledge. Problem-solving methods used by children will also be explored. Manipulatives, cooperative learning activities, and problem solving strategies are used throughout the course.
+PREREQ: GRADE OF C OR BETTER IN MATH 139 OR MATH 141 OR MATH 142
+
+MATH 148   MATHEMATICS FOR THE ELEMENTARY TEACHER I   3 Units
+
+A study of topics in early childhood through early adolescence mathematics, including sets, fundamental operations of arithmetic, fundamental algorithms, and structural properties of arithmetic. The focus is on increasing conceptual understanding of mathematics, highlighting connections, and developing the ability to communicate mathematical knowledge. Problem-solving methods used by children will also be explored. Manipulatives, cooperative learning activities, and problem solving emphasized.
+PREREQ: GRADE OF C OR BETTER IN MATH 139 OR MATH 141 OR MATH 142
+
+MATH 149   MATHEMATICS FOR THE ELEMENTARY TEACHER II   3 Units
+
+Topics in probability and statistics, with emphasis on descriptive techniques. Investigations in geometric figures, measurement, construction, transformations, congruent and similar geometric figures. Problem solving strategies, manipulatives, and cooperative learning activities are emphasized throughout the course.
+PREREQ: MATH 147 WITH A GRADE OF C OR BETTER OR MATH 148 WITH A GRADE OF C OR BETTER
+
+MATH 151   TRIGONOMETRY   3 Units
+
+Study of trigonometric functions including basic graphs, transformations, and inverses; trigonometric functions are studied through the unit circle and right triangle approaches. Also studied are trigonometric identities, equations, and applications, including Law of Sines and Law of Cosines, as well as polar coordinates.
+PREREQ: GRADE OF C OR BETTER IN MATH 142 OR DEPARTMENT CONSENT UNREQ: MATH 152
+
+MATH 152   PRECALCULUS   5 Units
+
+Study of polynomial, radical, rational, piecewise, exponential, logarithmic, and trigonometric functions, including basic graphs, transformations, inverses, and combining functions; solving equations and inequalities both algebraically and graphically is explored. In addition, trigonometric functions are studied through the unit circle and right triangle approaches. Also studied are vectors, trigonometric identities, trigonometric equations, and polar coordinates.
+PREREQ: PLACEMENT INTO MATH 152 OR DEPARTMENT CONSENT UNREQ: MATH 142 AND MATH 151
+
+MATH 200   MATHEMATICS: FORM AND FUNCTION   1 Units
+
+An introduction to abstract and applied mathematical thinking, including exploration of career opportunities in the mathematical sciences. Centered around the dual question of "What is mathematics, and what is it good for?", this course serves as a introduction to the mathematics major and minor and includes an overview of the different emphases within the major.
+COREQ: MATH 253 (MAY BE COMPLETED PRIOR TO ENROLLMENT)
+
+MATH 243   CALCULUS FOR BUSINESS AND SOCIAL SCIENCES   4 Units
+
+A survey of calculus emphasizing business and social science applications. Topics covered include related algebra concepts and skills, limits, differentiation, max-min theory, exponential and logarithmic functions, and integration. Other topics included at instructor discretion.
+PREREQ: MATH 142 WITH A GRADE OF C OR BETTER, OR MATH 143 WITH A GRADE OF C OR BETTER, OR MATH 152 WITH A GRADE OF C OR BETTER
+
+MATH 250   APPLIED CALCULUS SURVEY FOR BUSINESS AND SOCIAL SCIENCES   5 Units
+
+An applied calculus course covering elementary analytic geometry, limits, differentiation, max-min theory, exponential and logarithmic functions, integration, functions of several variables, and elementary differential equations. Some computer topics may be included. A student may earn credit for only one of MATH 250 and MATH 253.
+PREREQ: A GRADE OF C OR BETTER IN MATH 142 OR MATH 152 UNREQ: MATH 253
+
+MATH 253   CALCULUS AND ANALYTIC GEOMETRY I   5 Units
+
+Review of algebraic and trigonometric functions, transcendental functions, limits, study of the derivative, techniques of differentiation, continuity, applications of the derivative, L' Hopital's Rule and indeterminate forms, the Riemann integral, Fundamental Theorem of Calculus, the substitution rule, and applications of the integral, including volumes of revolution and average value.
+PREREQ: A GRADE OF C OR BETTER IN (MATH 142 AND MATH 151) OR MATH 152 UNREQ: MATH 250
+
+MATH 254   CALCULUS AND ANALYTIC GEOMETRY II   4 Units
+
+Techniques of integration, introduction to differential equations, parametric equations, and infinite sequences and series.
+PREREQ: MATH 253 OR (MATH 250 AND MATH 151) OR (MATH 250 AND MATH 152), EACH WITH A GRADE OF C OR BETTER
+
+MATH 255   CALCULUS AND ANALYTIC GEOMETRY III   4 Units
+
+A course in multivariable calculus. Topics include: solid analytic geometry; vectors and vector functions; functions of several variables, including limits, continuity, partial and directional derivatives, gradient vectors, and Lagrange multipliers; multiple integrals in rectangular, cylindrical, and spherical coordinates; line and surface integrals; Green's Theorem, Stokes' Theorem, and the Divergence Theorem.
+PREREQ: MATH 254 WITH A C OR BETTER
+
+MATH 280   DISCRETE MATHEMATICS   3 Units
+
+This course provides an introduction to mathematical proof, beginning with a discussion of formal logic. Topics include sets, functions, relations, number theory, combinatorics, and probability.
+PREREQ: MATH 250 WITH A GRADE OF B OR BETTER OR MATH 253 WITH A GRADE OF C OR BETTER
+
+MATH 281   PUTNAM COMPETITION AND PROBLEM SOLVING   Repeatable   1 Units
+
+Preparation for the William Lowell Putnam Competition. Includes advanced problem solving techniques in pure mathematics. Review of previous examination problems and related material. May be repeated for a total of four credits. Satisfactory/No Credit only.
+PREREQ: MATH 253 OR CONSENT OF INSTRUCTOR COREQ: MATH 280 OR CONSENT OF INSTRUCTOR
+
+MATH 296   SPECIAL STUDIES   Repeatable   1-3 Units
+
+MATH 298   INDEPENDENT STUDY   Repeatable   1-3 Units
+
+Study of a selected topic or topics under the direction of a faculty member. Repeatable. Department Consent required.
+
+MATH 301   INTRODUCTION TO ANALYSIS   3 Units
+
+A first course in real analysis. Topics include properties of the real numbers, convergence of sequences, monotone and Cauchy sequences, continuity, differentiation, the Mean Value Theorem, and the Riemann integral. Emphasis is placed on proof-writing and communicating mathematics.
+PREREQ: MATH 254 WITH A GRADE OF C OR BETTER, AND MATH 280
+
+MATH 343   APPLIED PROBABILITY THEORY   3 Units
+
+Sets and counting, probability spaces, discrete and continuous random variables, mathematical expectation, and discrete and continuous distributions with applications.
+PREREQ: GRADE OF C OR BETTER IN MATH 250 OR MATH 253
+
+MATH 346   THEORY OF INTEREST   3 Units
+
+This course will cover the topics of interest theory listed in the Society of Actuaries/Casualty Actuarial Society syllabus for Exam FM/2. Topics include the time value of money, annuities, loans, bonds, general cash flows and portfolios, and immunization schedules.
+PREREQ: MATH 254 WITH A C OR BETTER
+
+MATH 352   INFINITE PROCESSES FOR THE ELEMENTARY TEACHER   3 Units
+
+This course is primarily for pre-service elementary and middle school teachers. Students will be introduced to the concepts of calculus, which include infinite processes, limits, and continuity. In addition, derivatives and integrals and their relationships to change and area will be covered.
+PREREQ: A GRADE OF C OR BETTER IN (MATH 142 AND 151) OR MATH 152
+
+MATH 353   COLLEGE GEOMETRY   5 Units
+
+This course is adapted for the prospective high school mathematics teacher. Topics include foundations of Euclidean geometry, Euclidean transformational geometry, modern synthetic geometry that builds on Euclidean geometry, selected finite geometries, and an introduction to non-Euclidean and projective geometry, including their relationship to Euclidean geometry.
+PREREQ: MATH 280
+
+MATH 355   MATRICES AND LINEAR ALGEBRA   3 Units
+
+Systems of linear equations, matrices and determinants, finite dimensional vector spaces, linear dependence, bases, dimension, linear mappings, orthogonal bases, and eigenvector theory. Applications stressed throughout.
+PREREQ: GRADE OF C OR BETTER IN MATH 253 OR (MATH 250 AND (MATH 151 OR MATH 152))
+
+MATH 359   PROBABILITY & STATISTICS FOR TEACHERS   4 Units
+
+An introduction to probability and statistics for teachers. Topics covered include counting techniques, basic probability theory, exploratory data analysis, simulation, randomization, and statistical inference. This course contains a writing component.
+PREREQ: MATH 253 OR (MATH 250 AND MATH 151) OR (MATH 250 AND MATH 152), EACH WITH A GRADE OF C OR BETTER
+
+MATH 361   DIFFERENTIAL EQUATIONS   3 Units
+
+Ordinary differential equations: general theory of linear equations, special methods for nonlinear equations including qualitative analysis and stability, power series and numerical methods, and systems of equations. Additional topics may include transformation methods and boundary value problems. Applications stressed throughout.
+PREREQ: MATH 254 WITH A C OR BETTER
+
+MATH 370   PROBLEM SOLVING FOR THE ELEMENTARY TEACHER   3 Units
+
+This course is primarily for pre-service elementary and middle school teachers. Students will learn a variety of problem solving strategies applicable in elementary and middle school. The applications will cover many different areas of mathematics.
+PREREQ: MATH 149 WITH C OR BETTER
+
+MATH 375   DEVELOPMENT OF MATHEMATICS   3 Units
+
+A study of the development of mathematical notation and ideas from prehistoric times to the present. Periods and topics will be chosen corresponding to the backgrounds and interests of the students.
+PREREQ: A GRADE OF C OR BETTER IN (MATH 142 AND MATH 151) OR MATH 152 OR CONSENT OF INSTRUCTOR
+
+MATH 381   MATHEMATICAL MODELING AND SIMULATION   3 Units
+
+Modeling involving formulation of deterministic, stochastic and rule-based models and computer simulation in order to make predictions. Topics may include unconstrained and constrained growth models, equilibrium and stability, force and motion, predator-prey model, enzyme kinetics, data-driven models, probability distributions, Monte Carlo simulations, random walk, diffusion, cellular automaton simulations, and high performance computing.
+PREREQ: MATH 254 WITH A GRADE OF C OR BETTER AND MATH 355
+
+MATH 415   MODERN ALGEBRA AND NUMBER THEORY FOR THE ELEMENTARY TEACHER   3 Units
+
+An introduction to modern algebra with special emphasis on the number systems and algorithms which underlie the mathematics curriculum of the elementary school. Topics from logic, sets, algebraic structures, and number theory.
+PREREQ: MATH 370 OR CONSENT OF INSTRUCTOR
+
+MATH 416   GEOMETRY FOR THE ELEMENTARY TEACHER   3 Units
+
+A study of the intuitive, informal geometry of sets of points in space. Topics include elementary constructions, coordinates and graphs, tessellations, transformations, problem solving, symmetries of polygons and polyhedra, and use of geometry computer software.
+PREREQ: MATH 370 OR CONSENT OF INSTRUCTOR
+
+MATH 417   NUMBER THEORY   3 Units
+
+A study of the properties of integers, representation of integers in a given base, properties of primes, arithmetic functions, module arithmetic. Diophantine equations and quadratic residues. Consideration is also given to some famous problems in number theory.
+PREREQ: MATH 280 OR MATH 415 OR CONSENT OF INSTRUCTOR
+
+MATH 421   MATHEMATICS FOR HIGH SCHOOL TEACHERS I   3 Units
+
+The course revisits the high school curriculum from an advanced perspective. The focus is on deepening understanding of concepts, highlighting connections and solving challenging problems. The mathematical content includes number systems, functions, equations, integers, and polynomials. Connections to geometry are emphasized throughout the course.
+PREREQ: MATH 280, MATH 301 AND AT LEAST AN ADDITIONAL 3 CREDITS IN UPPER LEVEL MATH
+
+MATH 422   MATHEMATICS FOR HIGH SCHOOL TEACHERS II   3 Units
+
+The course continues the exploration of the high school curriculum from an advanced perspective that was started in MATH 421. The focus is on deepening understanding of concepts, highlighting connections and solving challenging problems. The mathematical content includes congruence, distance, similarity, trigonometry, area, and volume. Connections to algebra are emphasized throughout the course.
+PREREQ: MATH 353 AND MATH 421
+
+MATH 431   TOPOLOGY   3 Units
+
+An introduction to point-set topology, including such topics as topological spaces, mappings, connectedness, compactness, separation axioms, metric spaces, complete spaces, product spaces and function spaces.
+PREREQ: MATH 255 AND EITHER MATH 280 OR CONSENT OF INSTUCTOR
+
+MATH 442   MATHEMATICAL STATISTICS   4 Units
+
+This course will cover moment generating functions; multivariate probability distributions including moments of linear combinations of random variables and conditional expectation; functions of random variables; sampling distributions and the Central Limit Theorem; the theory and properties of estimation; confidence intervals; and the Neyman-Pearson Lemma, likelihood ratio tests and common tests of hypotheses.
+PREREQ: MATH 255 WITH A GRADE OF C OR BETTER AND MATH 343 WITH A GRADE OF C OR BETTER
+
+MATH 450   GRAPH THEORY   3 Units
+
+This course will examine basic concepts and applications of graph theory. Topics covered will be selected from trees, connectivity, paths and cycles, coloring, matching and covering problems, digraphs, and network flows.
+PREREQ: MATH 280 OR CONSENT OF INSTRUCTOR
+
+MATH 452   INTRODUCTION TO ABSTRACT ALGEBRA   3 Units
+
+An introductory survey of abstract algebra and number theory with emphasis on the development and study of the number systems of integers, integers mod n, rationals, reals, and complex numbers. These offer examples of and motivation for the study of the classical algebraic structures of groups, rings, integral domains and fields.
+PREREQ: MATH 280 OR CONSENT OF INSTUCTOR
+UNREQ: MATH 415 AND MATH 452
+
+MATH 453   ABSTRACT ALGEBRA   3 Units
+
+This course is a continuation of MATH 452 with emphasis on ring and field theory. Topics include a review of group theory, polynomial rings, divisibility in integral domains, vector spaces, extension fields, algebraic extension fields, finite fields, etc.
+PREREQ: MATH 355 AND MATH 452
+
+MATH 458   APPLIED MATHEMATICAL ANALYSIS   3 Units
+
+Selected topics in ordinary differential equations: series solutions, stability, transform methods, special functions, numerical methods, vector differential calculus, line and surface integrals.
+PREREQ: MATH 361
+
+MATH 459   PARTIAL DIFFERENTIAL EQUATIONS   3 Units
+
+Fourier analysis, partial differential equations and boundary value problems, complex variables, and potential theory.
+PREREQ: MATH 361
+
+MATH 463   COMPLEX VARIABLES   3 Units
+
+This course is a study of the algebra and geometry of complex numbers, the properties of analytic functions, contour integration, the calculus of residues and the properties of power series.
+PREREQ: MATH 255
+
+MATH 464   ADVANCED CALCULUS   3 Units
+
+This course presents a rigorous treatment of the differential and integral calculus of single variable functions, convergence theory of numerical sequences and series, uniform convergence theory of sequences and series of functions, metric spaces, functions of several real variables, and the inverse function theorem. This course contains a writing component.
+PREREQ: MATH 301 OR CONSENT OF INSTRUCTOR
+
+MATH 471   NUMERICAL ANALYSIS   3 Units
+
+Emphasis on numerical algebra. The problems of linear systems, matrix inversion, the complete and special eigenvalue problems, solutions by exact and iterative methods, orthogonalization, gradient methods. Consideration of stability and elementary error analysis. Extensive use of microcomputers and programs using a high level language. This course contains a writing component.
+PREREQ: MATH 355 AND (COMPSCI 170 OR COMPSCI 172 OR COMPSCI 174 OR COMPSCI 220 OR COMPSCI 222 OR COMPSCI 347)
+
+MATH 474   DYNAMICAL SYSTEMS & CHAOS   3 Units
+
+An analytic, geometric, and intuitive study of continuous and discrete low-dimensional nonlinear dynamical systems. The basic notions of stability, bifurcations, chaotic systems, strange attractors, and fractals are examined. Specific applications will be taken from diverse fields such as Biology, Chemistry, Economics, Engineering, and Physics.
+PREREQ: MATH 361 WITH A C OR BETTER
+
+MATH 490   WORKSHOP   Repeatable   1-3 Units
+
+Variable topics. Group activity oriented presentations emphasizing `hands on` and participatory instructional techniques.
+
+MATH 492   FIELD STUDY   Repeatable   1-3 Units
+
+A study for which data is obtained or observations are made outside the regular classroom. Repeatable. Instructor Consent required.
+
+MATH 493   MATH INTERNSHIP   Repeatable   1-3 Units
+
+MATH 494   SEMINAR   Repeatable   2 Units
+
+Variable topics. Group activity. An advanced course of study in a defined subject matter area emphasizing a small group in intense study with a faculty member. Repeatable. Instructor Consent required.
+
+MATH 496   SPECIAL STUDIES   Repeatable   1-3 Units
+
+Variable topics. Group activity. Not offered regularly in the curriculum but offered on topics selected on the basis of timeliness, need, and interest, and generally in the format of regularly scheduled Catalog offerings. Repeatable three times maximum in 6 years. Instructor Consent required.
+
+MATH 497   EXCHANGE STUDY   Repeatable   1-12 Units
+
+Variable topics
+
+MATH 498   INDEPENDENT STUDY   Repeatable   1-5 Units
+
+Study of a selected topic or topics under the direction of a faculty member. Repeatable. Department Consent required.
+
+MATH 498R   INDEPENDENT STUDY - UNDERGRADUATE RESEARCH   Repeatable   1-3 Units
+
+Study of a selected topic or topics under the direction of a faculty member. Repeatable. Department Consent required.
+
+MATH 499   PROJECT FOR MAJORS   1 Units
+
+This course is designed to give students experience and to improve their skill in reading, writing, and understanding mathematics by requiring them to research one or more mathematical topics and then write a report about their activities and discoveries. The focus is on the learning and communication of mathematics: how to read with understanding, write with clarity and precision, and in the process discover how writing can aid in understanding.
+PREREQ: JUNIOR/SENIOR STATUS OR CONSENT OF INSTRUCTOR
