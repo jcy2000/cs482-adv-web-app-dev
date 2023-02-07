@@ -40,7 +40,6 @@
                     <td>{$courseStrings[2][$i]}</td>
                     <td>{$courseStrings[3][$i]}</td>
                   </tr>";
-            
         }
     }
     else
