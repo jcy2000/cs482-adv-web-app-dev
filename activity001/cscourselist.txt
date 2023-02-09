@@ -1,0 +1,261 @@
+Computer Science (COMPSCI) Courses
+COMPSCI 162   COMPUTER APPLICATIONS   3 Units
+
+A thorough introduction to commonly used computer applications, covering word processing, spreadsheets, data storage and retrieval, and presentation software. Students will learn the vocabulary of computing, the concepts of computing and problem solving, and how computer applications can be applied to a wide range of problems.
+PREREQ: math 139 or math 140 or math 141 or math 142.
+
+COMPSCI 165   INTRODUCTION TO COMPUTATIONAL THINKING   3 Units
+
+This course introduces computational thinking and provides a broad high-level understanding of how computers and related technical developments are
+ changing the world. Students will learn how computers are built and operated, and they will apply computational thinking skills such as algorithmic
+ and procedural thinking, problem decomposition, pattern recognition, and abstraction to write programs and solve problems. Students will also study 
+ computing innovations such as the Internet, data and information, artificial intelligence and machine learning, human-computer interaction, and 
+ cryptography; and they will explore how these innovations affect privacy, security, intellectual property and other important issues.
+PREREQ: math 41 or placement into math 139 or higher.
+
+COMPSCI 170   INTRODUCTION TO PYTHON PROGRAMMING   3 Units
+
+An introduction to computational thinking and computer programming using the Python language, with applications in science, business, education, and other areas. Students will develop structured programs based on simple algorithms that involve input, output, mathematical operations, 
+decisions, and loops. No previous programming experience is needed.
+PREREQ: math 139 with a grade of C or better, or math 141, or math 142.
+
+COMPSCI 172   INTRODUCTION TO JAVA   3 Units
+
+This course teaches the essentials of object-oriented programming in Java. Students will learn to formulate solutions for real problems and implement those solutions in Java programs that employ objects and classes. Students will be introduced to object-oriented design, 
+class construction, selection statements, loops, methods and message passing, debugging, arrays, string processing, and file processing.
+PREREQ: (math 139 or math 141 or math 142 or math 152) with a grade of C or better, or Score of 3 or higher on AP CS principles exam.
+
+COMPSCI 174   INTRODUCTION TO C++   3 Units
+
+This course teaches basic programming skills using the structured high-level language C++. Topics include basic input and output, declaration and use of variables, use of control statements, implementation of functions using value and reference parameters, debugging, arrays, classes, and objects. Students will write moderately complex applications using C++.
+PREREQ: (math 139 or math 141 or math 142 or math 152) with a grade of C or better, or score of 3 or higher on AP CS principles exam.
+
+COMPSCI 180   DATA SCIENCE FOR EVERYONE   3 Units
+
+An introduction to data science and its implementation using the R language, with applications in natural and social science, public health and welfare, and other areas. Students will explore methods of data analysis and visualization and cultivate marketable data-literacy skills. No prior knowledge of statistics or programming is needed.
+PREREQ: math 139 with a grade of C or better, or math 141, or math 142, or math 152.
+
+COMPSCI 181   INTRODUCTION TO DATABASE AND THE WEB   3 Units
+
+This course provides the student with a comprehensive working knowledge of a modern database package including the creation of a database, construction of a wide range of queries, use of forms, and report writing features. The course also gives an introduction to the creation of World Wide Web pages using the Extended Hypertext Markup Language (XHTML).
+PREREQ: math 139 or math 141 or math 142 or math 152.
+
+COMPSCI 215   DISCRETE STRUCTURES   3 Units
+
+The course offers a formal approach to the mathematics of Computer Science, including set theory, methods of proof, propositional logic, discrete probability, sequences, recurrence relations, introduction to graphs, and algorithmic analysis.
+PREREQ: (math 142 or math 143 or math 152) with a grade of C or better.
+
+COMPSCI 219   ACCELERATED PROGRAMMING WITH JAVA   5 Units
+
+This is an intense Java course, appropriate for those who need to accelerate in getting the undergraduate degree or removing deficiencies for graduate studies in computer science. Topics include data types and variables, conditional and loop statements, methods, arrays, classes/objects, interfaces, inheritance and polymorphism, exceptions, files, and graphical user interfaces.
+PREREQ: compsci 170 with C or higher, or score of 3 or higher on AP CS principles exam, or equivalent programming experience (and instructor consent), or (math 142 or math 143 or math 152) W/C or higher, or concurrent registration in math 253.
+
+COMPSCI 220   INTERMEDIATE JAVA   3 Units
+
+This course teaches more advanced topics in object-oriented program design and the Java programming language. Coverage includes multi-dimensional arrays, methods, recursion and search/sort algorithms, error handling, strings, regular expressions, encapsulation, inheritance, polymorphism, generic types, file processing, event handling, and program debugging and testing. Coverage may also include databases, graphical user interfaces, or functional programming.
+PREREQ: compsci 172 with a grade of C or better, or (compsci174 with a grade of C or better and consent of instructor).
+
+COMPSCI 221   INTERMEDIATE PROGRAMMING IN C#   3 Units
+
+This course introduces C#, a programming language that is widely used in software, web, game, and mobile development. Topics include basic syntax, classes, object-oriented programming (overloading, inheritance, polymorphism), multi-dimensional arrays, file input/output, recursion, lambda expressions, and LINQ. Basic software engineering knowledge including coding standards and testing will also be covered.
+PREREQ: (compsci 172 or compsci 174) AND (math 142 or math 143 or math 152), ALL with a grade of C or better.
+
+COMPSCI 222   INTERMEDIATE C++   3 Units
+
+This course will cover more advanced issues of C++, including memory management, pointers and user-defined data types. Topics will include reading and writing files; dynamic arrays and multi-dimensional arrays; recursion and search/sort algorithms; implementation of the principles of object oriented design including encapsulation, inheritance, polymorphism, and templates; and planning and testing. Students will write complex applications using C++.
+PREREQ: compsci 174 with a grade of C or better or (compsci 172 with a grade of C or better and consent of instructor).
+
+COMPSCI 223   DATA STRUCTURES   3 Units
+
+This course covers issues of data structures, professional software development methodologies including software patterns, and advanced object-oriented techniques. Topics include lists, queues, stacks, and trees. Complex data structures and object-oriented design techniques, including inheritance and polymorphism, are applied to develop larger projects.
+PREREQ: compsci 220 with a grade of C or better, or compsci222 with a grade of C or better.
+
+COMPSCI 271   COMPUTER ORGANIZATION AND ASSEMBLY PROGRAMMING   3 Units
+
+This course covers an introduction to computer organization and the use of an assembly language based on a standard (RISC or CISC) processor architecture including writing, linking, and executing a program. Also covered are number systems, arithmetic and logical operations, Boolean algebra, logic circuits, basic hardware components, memory access, loops, declaring variables, interrupts, machine language, segments, stacks, procedure writing, and file handling.
+PREREQ: compsci 172 or compsci 174.
+
+COMPSCI 290   WORKSHOP   Repeatable   1-3 Units
+
+Variable topics. Group activity oriented presentations emphasizing hands on and participatory instructional techniques. Repeatable. Instructor Consent required.
+PREREQ: compsci 172 or compsci 174.
+
+
+COMPSCI 296   SPECIAL STUDIES   Repeatable   1-3 Units
+
+Variable topics. Group activity. Not offered regularly in the curriculum but offered on topics selected on the basis of timeliness, need, and interest, and generally in the format of regularly scheduled Catalog offerings. Repeatable. Instructor Consent required.
+PREREQ: compsci 172 or compsci 174.
+
+COMPSCI 310   INTERMEDIATE DATA SCIENCE   3 Units
+
+This course introduces intermediate data science and its implementation using R and Python, with applications in natural and social science, public health and welfare, and other areas. Students will explore methods of data analysis, cleaning, simulation and visualization and machine learning. Prior knowledge of programming and statistical analysis is assumed.
+PREREQ: compsci 170 and (compsci 180 or compsci 220 or compsci 222) and 1 course in statistics (biology 303 or econ 245 or stat 230 or stat 342 or Ppsych 215 or sociology 295 or scowork 250), or permission of instructor.
+
+COMPSCI 320   CONCEPTS OF PROGRAMMING LANGUAGES   3 Units
+
+An exploration of the core concepts upon which all programming languages are built. Students will apply these concepts to write programs in several specialized programming languages, including functional and logic programming languages. Emphasis is placed upon evaluating the strengths and weaknesses of particular languages for various tasks.
+PREREQ: compsci 223 and (compsci 215 or math 280).
+
+COMPSCI 322   COMPUTER LANGUAGES AND COMPILERS   3 Units
+
+In this course, we will study the process of translating computer programs into machine code that runs on a computer. Students will learn the structure and functionality of a compiler, program working versions of all parts of a simple compiler, and test the various parts of a simple compiler for bugs.
+PREREQ: compsci 223 and compsci 271
+.
+
+COMPSCI 332   INTRODUCTION TO ARTIFICIAL INTELLIGENCE   3 Units
+
+This course introduces basic artificial intelligence principles including simple representation schemes, problem solving paradigms, constraint propagation, search strategies and learning approaches. Knowledge representation, natural language processing, gaming, machine learning and user modeling will be explored. Students should have written moderately complex computer programs in a high level language.
+PREREQ: compsci 222 or compsci 220.
+
+COMPSCI 342   DIGITAL FORENSICS   3 Units
+
+This course focuses on the procedures and techniques of digital forensics. It involves the preservation, identification, extraction and documentation of evidence stored on a computer. The detailed contents include general forensics procedure, computer crime law and digital evidence collection procedure, data collection, data recovery, file system analysis, evidence analysis, tools for forensics analysis, and basic internet application forensics.
+PREREQ: compsci 271 or cyber 101.
+
+COMPSCI 347   SCIENTIFIC COMPUTING   3 Units
+
+This course provides the applied scientist with the basic tools needed to perform computing within a scientific context. The computational aspects focus on two major areas,  the development and implementation of numerical algorithms in computer programs, and  the analysis and visualization of complex data sets. Numerical methods covered include finding roots of nonlinear equations, solving linear systems, the eigenvalue problem, numerical integration, the initial value problem, and data fitting. The high-level computer packages used are Mathematic and Matlab.
+PREREQ: math 253 with A C or better or consent of instructor.
+
+COMPSCI 353   CYBERSECURITY LAW AND POLICY   3 Units
+
+This course will provide students exposure to the key legal and policy issues related to cybersecurity. It includes such topics as data security laws and enforcement actions, cybersecurity litigation, anti-hacking laws, cybersecurity and corporate governance, privacy law, the Fourth Amendment, 
+surveillance, and international cybersecurity law.
+PREREQ: none.
+
+COMPSCI 354 INTRUSION DETECTION AND INCIDENT RESPONSE 3 Units
+
+A blend of theoretical and practical knowledge on design and implementation of intrusion detection and incident response. Topics include intrusion prevention systems, anomaly and signature-based intrusion detection, host-based and network-based intrusion detection, 
+tools for intrusion detection and response, automated and manual response to attacks, and legal/organizational issues of intrusion detection and incident response systems.
+PREREQ: itscm 221 or compsci 271.
+
+COMPSCI 366   DATABASE MANAGEMENT SYSTEMS   3 Units
+
+This course offers an introduction to the design and programming of databases and the implementation of database management systems from a computer science perspective. Contents include the relational model; SQL; database application development; and concepts and algorithms for building database management systems.
+PREREQ: compsci 223 or consent of instructor.
+
+COMPSCI 381   JAVASCRIPT AND DHTML   3 Units
+
+JavaScript is a computer language globally used for adding flexibility and functionality to web pages. A powerful language in its own right, it supports event-driven, functional, and imperative programming styles. It also has the capability to make asynchronous calls to server-side scripts. Students in this course will gain a thorough understanding of JavaScript, and learn to harness its abilities to create custom user interfaces and manage windows, forms, events, etc.
+PREREQ: compsci 172 or compsci 174 or equivalent preparation and consent of instructor.
+
+COMPSCI 382   SERVER-SIDE SCRIPTING   3 Units
+
+This course will provide a thorough introduction to the concepts utilized in building modern web applications. Students will learn to create web applications that use SQL/NoSQL to access and update the information in a database.
+PREREQ: compsci 172 or compsci 174 or equivalent preparation and consent of instructor.
+
+COMPSCI 412   EMBEDDED SYSTEMS   3 Units
+
+A study of general embedded system organization and architecture that is widely used in Internet of Things (IoT). This course includes microcontroller, circuits, and hardware. Interactions with embedded system and peripheral sensors, includes buses, memory architectures, device drivers and SPI. The focus will then be the embedded software design, such as concurrency, interrupts, profiling, exception handling, etc. This course is designed to be involved with extensive hands-on experiences.
+PREREQ: compsci 271 or consent.
+
+COMPSCI 424   OPERATING SYSTEMS   3 Units
+
+This course covers problems encountered by computer operating systems including resource management, memory management, virtual memory, concurrent programming, and distributed systems. Algorithms are presented for deadlock, memory paging, job scheduling, memory allocation, and performance measurement. Operating systems such as WINDOWS, DOS, UNIX, VMS, and MVS are discussed.
+PREREQ: compsci 223 and compsci 271.
+
+COMPSCI 433   THEORY OF ALGORITHMS   3 Units
+
+This course is a survey of algorithms needed for searching, sorting, pattern matching, analyzing graphs, and a variety of other problems of discrete mathematics. Analysis of algorithm efficiency and space/time tradeoffs are discussed.
+PREREQ: compsci 223 and (compsci 215 or math 280).
+
+COMPSCI 434   THEORY OF COMPUTATION   3 Units
+
+This course is an introduction to the theory of computation. It discusses finite automata and Turing machines as models of computation. It includes discussions of regular sets, recursive and partially recursive functions, context free grammars, the halting problem, undecidable problems, complexity, and Np-completeness.
+PREREQ: math 280 or compsci 215.
+
+COMPSCI 441   WEB SECURITY   3 Units
+
+The web is our gateway to many critical services and is also becoming the top channel for attacks. This course covers the common security and privacy attacks upon web applications along with how to defend against such attacks. The detailed contents include basic web programming and exploits, browser security, attacks and defense on authentication, accession control, database, and back-end components.
+PREREQ: compsci 220 or compsci 221 or compsci 222.
+
+COMPSCI 448   BIOINFORMATICS   3 Units
+
+Bioinformatics is an introduction to computer applications and algorithms currently used in the analysis of biological data, especially genomic and sequence data. The course entails lectures, discussions, readings and hands-on experience with bioinformatic software. Through exercises and individual research projects students acquire a working knowledge of contemporary computational methods and software.
+PREREQ: biology 141 with a grade of C or better and one of the following with a grade of C or better: biology 303, psych 215, stat 230, or stat 342.
+
+
+COMPSCI 451   TOPICS IN APPLIED COMPUTING   Repeatable   3 Units
+
+This course covers emerging topics in modern applied computing. Sample topics include: new computing platforms, blockchain, machine learning, cloud computing, data mining and recommender systems, user modeling, and human-computer interaction. Repeatable with change in topic.
+PREREQ: compsci 223.
+
+COMPSCI 452   MALWARE ANALYSIS   3 Units
+
+This course focuses on the working principles of malicious software, how to detect it, and how to defend against it. The detailed contents include static analysis, dynamic analysis, disassembly tools, malware code analysis and debugging, obfuscation and ransomware analysis, code injection and hooking, malware detection using memory forensics, and malware defense technique. This is a hands-on course with a large amount of practical analysis work using tools.
+PREREQ: compsci 271.
+
+COMPSCI 455   CRYPTOGRAPHY AND NETWORK SECURITY   3 Units
+
+This course covers the fundamental cryptographic algorithms and security protocols for computer networks. Topics include security attacks and security services, classical ciphers, modern block and stream ciphers, public key cryptography, digital signatures, key management and distribution, authentication, and security network protocols. The class involves a significant amount of programming projects and assignments about cipher algorithms and security protocols.
+PREREQ: compsci 223 and compsci 271 or consent of instructor.
+
+COMPSCI 456   COMPUTER SYSTEM SECURITY   3 Units
+
+General concepts and applied methods of computer system security, especially as they relate to confidentiality, integrity, and availability of information assets. Topics include system security analysis, access control and various security models, information flow, protection against external and internal threats, malware, and reverse engineering. This is a hands-on course, where you will learn by working on programming assignments and projects.
+PREREQ: compsci 223 and compsci 271 or consent of instructor.
+
+COMPSCI 460   COMPUTER NETWORKING   3 Units
+
+This course introduces the principles, applications, protocols, and architectures of data networks. It places an equal emphasis on practical experience as well as theoretical foundations. There will be abundant network programming and lab activities around application layer, transportation layer, and routing.
+PREREQ: compsci 223 and compsci 271 or consent of instructor.
+
+COMPSCI 461   MOBILE COMPUTING ARCHITECTURE   3 Units
+
+This course discusses fundamentals of wireless communication and mobile computing, and emphasizes the analysis and design of network architectures in support of mobility related services. It involves intensive critical thinking practices, programming, and hands-on experiments.
+PREREQ: compsci 223 and compsci 271 or consent of instructor.
+
+COMPSCI 476   SOFTWARE ENGINEERING   3 Units
+
+This capstone course introduces concepts and techniques relevant to the production of large software systems. Topics include: modularity; specification; data abstraction; object modeling; design patterns; and testing. Students work in groups to complete a significant software development project using concepts taught in this course and in prior Computer Science courses.
+PREREQ: compsci 223.
+
+COMPSCI 481   WEB SERVER AND UNIX ADMINISTRATION   3 Units
+
+This course is intended to introduce students to Web Server software and UNIX and UNIX-like operating systems from the perspective of the System Administratior. Linux, the fastest growing operating system, will be studied in detail, together with the Apache web server. Web server configuration will be studied, including optimization, security issues and vertual server administration. Additional topics will include shell programming, system monitoring, file systems and the X Windows GUI. This course will focus on common system administration duties on the Linux platform. Students will acquire competency in using shell programming skills to automate the maintenance of server activity. Emphasis will be placed on using Linux as an Internet server.
+PREREQ: compsci 172 or compsci 174 or equivalent preparation and consent of instructor.
+
+COMPSCI 482   ADVANCED WEB APPLICATION DEVELOPMENT   3 Units
+
+This course will introduce students to popular technologies utilized in building modern Web applications. These include application frameworks, application design patterns, Web services, databases, and security.
+PREREQ: compsci 381 and compsci 382 or equivalent preparation or consent of instructor.
+
+COMPSCI 485   PROJECT   Repeatable   1-3 Units
+
+This course provides students with the opportunity to participate on a student project team under the management of a faculty member and industry practitioners. The project will be sponsored by a partnering business firm and may involve a wide array of technologies, functional areas and geographically dispersed teammates. This course will only be offered when projects are available. Students will be carefully chosen through an interview process. The number of credits will be determined by the complexity of the project and the level of student involvement.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 490   WORKSHOP   Repeatable   1-3 Units
+
+Variable topics. Group activity oriented presentations emphasizing "hands on" and participatory instructional techniques. Repeatable. Instructor Consent required.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 493   INTERNSHIP IN COMPUTER SCIENCE   Repeatable   1-12 Units
+
+S/NC grade basis only.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 494   SEMINAR   2 Units
+
+Variable topics. Group activity. An advanced course of study in a defined subject matter area emphasizing a small group in intense study with a faculty member.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 496   SPECIAL STUDIES   Repeatable   1-3 Units
+
+Variable topics. Group activity. Not offered regularly in the curriculum but offered on topics selected on the basis of timeliness, need, and interest, and generally in the format of regularly scheduled Catalog offerings. Repeatable. Instructor Consent required.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 497   EXCHANGE STUDY   Repeatable   1-12 Units
+
+Variable topics.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 498   INDEPENDENT STUDY IN COMPUTER SCIENCE   Repeatable   1-3 Units
+
+Study of a selected topic or topics under the direction of a faculty member. Repeatable. Department Consent required.
+PREREQ: compsci 223 and consent of department.
+
+COMPSCI 498R   INDEPENDENT STUDY - UNDERGRADUATE RESEARCH   Repeatable   1-3 Units
+
+Study of a selected topic or topics under the direction of a faculty member. Repeatable. Department Consent required.
+PREREQ: compsci 223 and consent of department.

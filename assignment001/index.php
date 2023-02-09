@@ -3,8 +3,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
-    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <?php
 /*  Original Author: MonKey (aka Joseph Yang)
@@ -33,7 +33,7 @@
 
     // Extract all text that matches the regex
     if(preg_match_all($courseRegex, $fileString, $courseStrings)){
-        for($i=0;$i<count($courseStrings[0]);$i++) {
+        for($i = 0; $i < count($courseStrings[0]); $i++) {
             // Create a table row and put the Code, Name, and amount of credits for each class
             echo "<tr>
                     <td>{$courseStrings[1][$i]}</td>
