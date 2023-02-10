@@ -48,16 +48,6 @@
         }
     }
 
-    print_r($matches[0]);
-    echo "<br>";
-    print_r($matches[1]);
-    echo "<br>";
-    print_r($matches[2]);
-    echo "<br>";
-    print_r($matches[3]);
-    echo "<br>";
-    print_r($matches[4]);
-
     //End of table
     echo "</table>";
-?>
+    
