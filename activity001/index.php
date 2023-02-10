@@ -20,8 +20,8 @@
     // If we couldn't find or read the file, then terminate the program
     if(!$fileString) exit("We couldn't find or read the file!");
 
-    // Create the regex that captures
-    $regex = "/([A-Z]+\s\d{3}[A-Z]?)\s+([A-Z\s\-\&\:\#\+]+[A-Z]?)(?:Repeatable)?\s+([\d\-]+)\sUnits\s+([\w\s\.\,\/\#\(\)\-\+]+\.)/";
+    // Create the regex that captures all the good stuff (refer to table below).
+    $regex = "/([A-Z]+\s\d{3}[A-Z]?)\s+([A-Z\s\-\&\:\#\+]+[A-Z]?)(?:Repeatable)?\s+([\d\-]+)\sUnits\s+([a-zA-Z\s\,\.\;\/\#\(\)\+\-\:\"]+\.)\s+PREREQ\:([\w\s\,\:\(\)\/]+\.)/";
 
     // Create table
     echo "<table class='table'
@@ -31,19 +31,32 @@
                 <th>Title</th>
                 <th>Units</th>
                 <th>Description</th>
+                <th>Prerequisites</th>
             </tr>";
 
-    if(preg_match_all($regex, $fileString, $matches)) {
-        for($i = 0; $i < count($matches[0]); $i++) {
+    // Create rows based on what was found in the fileString. Uses $matches
+    if (preg_match_all($regex, $fileString, $matches)) {
+        for ($i = 0; $i < count($matches[0]); $i++) {
             echo "<tr>
                     <td>$i</td>
                     <td>{$matches[1][$i]}</td>
                     <td>{$matches[2][$i]}</td>
                     <td>{$matches[3][$i]}</td>
-                    <td>{$matches[4][$i]}</td>";
+                    <td>{$matches[4][$i]}</td>
+                    <td>{$matches[5][$i]}</td>
+                  </tr>";
         }
     }
-    print_r($matches);
+
+    print_r($matches[0]);
+    echo "<br>";
+    print_r($matches[1]);
+    echo "<br>";
+    print_r($matches[2]);
+    echo "<br>";
+    print_r($matches[3]);
+    echo "<br>";
+    print_r($matches[4]);
 
     //End of table
     echo "</table>";
