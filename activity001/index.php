@@ -21,7 +21,7 @@
     if(!$fileString) exit("We couldn't find or read the file!");
 
     // Create the regex that captures
-    $regex = "/([A-Z]+\s\d{3}[A-Z]?)\s+([A-Z\s\-\&\:\#\+]+[A-Z]?)(?:Repeatable)?\s+([\d\-]+)\sUnits\s+([\w\s\.\,\/\#]+\.)/";
+    $regex = "/([A-Z]+\s\d{3}[A-Z]?)\s+([A-Z\s\-\&\:\#\+]+[A-Z]?)(?:Repeatable)?\s+([\d\-]+)\sUnits\s+([\w\s\.\,\/\#\(\)\-\+]+\.)/";
 
     // Create table
     echo "<table class='table'
