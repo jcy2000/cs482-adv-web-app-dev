@@ -26,7 +26,6 @@
     // Create table
     echo "<table class='table'
             <tr>
-                <th>#</th>
                 <th>Course</th>
                 <th>Title</th>
                 <th>Units</th>
@@ -38,7 +37,6 @@
     if (preg_match_all($regex, $fileString, $matches)) {
         for ($i = 0; $i < count($matches[0]); $i++) {
             echo "<tr>
-                    <td>$i</td>
                     <td>{$matches[1][$i]}</td>
                     <td>{$matches[2][$i]}</td>
                     <td>{$matches[3][$i]}</td>
