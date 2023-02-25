@@ -20,7 +20,7 @@
     if(!$fileString) exit("Couldn't read or find the file: " + $relativeFilePath);
 
     // The regex that we will be using, refer to notes or website for what all the symbols mean
-    $courseRegex = "/([A-Z]+\s\d{3}[A-Z]?)\s(\d{2})\s\d+\s([A-Z\s\&\-]+[A-Z]{2})/";
+    $courseRegex = "/([A-Z]+\s\d{3}[A-Z]?)\s(\d{2}[A-Z]?)\s\d+\s([A-Z\s\&\-\/\:]+[A-Z])\s([A-Za-z]+\s?[A-Za-z]+)\s+(\d\s?\-?\s?\d*)\s+[\w\s\:\/\-]+Instructor\:\s+([\w\,\'\-]+\s?[A-Za-z]+)/";
 
     // Create the table
     echo "<table class='table'>
@@ -29,6 +29,8 @@
                 <th>Course</th>
                 <th>Title</th>
                 <th>Section</th>
+                <th>Component</th>
+                <th>Credits</th>
             </tr>";
 
     // Extract all text that matches the regex
@@ -40,6 +42,9 @@
                     <td>{$courseStrings[1][$i]}</td>
                     <td>{$courseStrings[3][$i]}</td>
                     <td>{$courseStrings[2][$i]}</td>
+                    <td>{$courseStrings[4][$i]}</td>
+                    <td>{$courseStrings[5][$i]}</td>
+                    <td>{$courseStrings[6][$i]}</td>
                   </tr>";
         }
     }
