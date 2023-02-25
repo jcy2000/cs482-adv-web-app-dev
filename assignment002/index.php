@@ -38,7 +38,7 @@
                 <th>Credits</th>
                 <th>Instructor</th>
             </tr>";
-        for ($i=0;$i<count($courseStrings[0]);$i++) {
+        for ($i=0; $i<count($courseStrings[0]); $i++) {
             // Create a table row and put the Code, Name, and amount of credits for each class
             echo "<tr>
                     <td>{$courseStrings[1][$i]}</td>
